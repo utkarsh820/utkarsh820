@@ -22,7 +22,7 @@
 - 🔭 **Project:** [Gallstone EDA & ML Pipeline](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)  
   *(Feature engineering • SVMs • Polynomial regression)*
 - 🧠 **Learning:** Deep Learning, Transformers, LLM Research Methods  
-- 💡 **Experimenting:** Generative AI (Vision & Text), AI Workflows  
+- 💡 **Experimenting:** Generative AI (Vision & Text), AI Workflows, Gemini API  
 
 ---
 
@@ -34,11 +34,19 @@
   <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" alt="Julia"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Bash"/>
 </p>
 <p align="center">
   <!-- Libraries & Frameworks -->
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-376996?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" alt="Plotly"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"/>
 </p>
@@ -49,6 +57,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini API"/>
 </p>
 
 ---
