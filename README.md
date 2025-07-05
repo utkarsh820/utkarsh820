@@ -51,6 +51,12 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"/>
 </p>
 <p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask"/>
+</p>
+<p align="center">
   <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
