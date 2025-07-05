@@ -1,29 +1,95 @@
-<h1 align="center">Hi 👋, I'm utkarsh</h1>
-<h3 align="center">Junior Data Scientist in Progress | Building AI with Code & Curiosity | GenAI | ML | Computer Vision</h3>
-
-- 🔭 I’m currently working on [ML Pipelines, Feature Engineering, SVM, Polynomial Regression](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)
-
-- 🌱 I’m currently learning **Deep Learning, Transformers, LLMs, and AI Research Methods**
-
-- 👨‍💻 All of my projects are available at [https://github.com/utkarsh820](https://github.com/utkarsh820)
-
-- 💬 Ask me about **ML, EDA, Regression, Model Evaluation, Python, Data Science Career Path**
-
-- 📫 How to reach me **utkarshpandey8977@gmail.com**
-
-- ⚡ Fun fact **I learn best by breaking things down and experimenting in the wild**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/xixama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xixama" height="30" width="40" /></a>
-<a href="https://kaggle.com/xixama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xixama" height="30" width="40" /></a>
-<a href="https://medium.com/@utkarshpandey8977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utkarshpandey8977" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utkarshpandey891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshpandey891" height="30" width="40" /></a>
+<!-- HEADER GIF / Hero Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L0TEx0iPxDbao/giphy.gif" alt="coding animation" width="80%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hey there, I'm Utkarsh (aka Xixama)</h1>
+<h3 align="center">
+  🧠 Junior Data Scientist in Progress • GenAI • ML • Computer Vision  
+  <br/>
+  🔭 Building AI with Code, Curiosity & Coffee ☕
+</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?color=%2300FFCC&center=true&size=24&lines=Learning+Deep+Learning;Exploring+Transformers;Experimenting+with+Julia+%26+SQL">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFCC&center=true&size=24&lines=Learning+Deep+Learning;Exploring+Transformers;Experimenting+with+Julia+%26+SQL" alt="Typing SVG"/>
+  </a>
+</p>
+
+---
+
+### 🚀 What I’m Up To
+- 🔭 **Project:** [Gallstone EDA & ML Pipeline](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)  
+  *(Feature engineering • SVMs • Polynomial regression)*
+- 🧠 **Learning:** Deep Learning, Transformers, LLM Research Methods  
+- 💡 **Experimenting:** Generative AI (Vision & Text), AI Workflows  
+
+---
+
+### 🔧 Tech Stack & Tools
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" alt="Julia"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="MATLAB"/>
+</p>
+<p align="center">
+  <!-- Libraries & Frameworks -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"/>
+</p>
+<p align="center">
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
+</p>
+
+---
+
+### 📊 Stats & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarsh820&theme=onedark&row=1&column=3&no-bg=true" alt="Trophies" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh820&theme=react" alt="🔥 Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh820&show_icons=true&theme=radical&count_private=true" alt="📈 Stats"/>
+</p>
+
+---
+
+### ✒️ Blog & Writing
+
+> “Turning data puzzles into stories.”  
+📝 [My Medium](https://medium.com/@utkarshpandey8977)  
+
+<!-- BLOG-POST-LIST:START -->
+*🚧 Coming soon: Hands-on posts on LLM tuning, CV projects, and real-world ML pipelines.*  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/xixama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:utkarshpandey8977@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/></a>
+  <a href="https://kaggle.com/xixama"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
+  <a href="https://www.hackerrank.com/utkarshpandey891"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I learn fastest by dismantling problems, tweaking them in code, and reassembling stronger solutions. 😎
+
+---
+
+> ⭐ If you like what you see, don’t forget to leave a star and follow for updates!
