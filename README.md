@@ -1,6 +1,6 @@
 <!-- HEADER GIF / Hero Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L0TEx0iPxDbao/giphy.gif" alt="coding animation" width="80%" />
+  <img src="[https://media.giphy.com/media/L0TEx0iPxDbao/giphy.gif](https://media.giphy.com/media/L0TEx0iPxDbao/giphy.gif)" alt="coding animation" width="80%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Utkarsh (aka Xixama)</h1>
