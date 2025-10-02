@@ -19,8 +19,9 @@
 ---
 
 ### 🚀 What I’m Up To
-- 🔭 **Project:** [Gallstone EDA & ML Pipeline](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)  
-  *(Feature engineering • SVMs • Polynomial regression)*
+- 🔭 **Project:** [Gallstone EDA & ML Pipeline](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)
+- *(Feature engineering • SVMs • Polynomial regression)*
+- [MediPredict(Hackthon_Project)](https://web-production-a0330.up.railway.app/)
 - 🧠 **Learning:** Deep Learning, Transformers, LLM Research Methods  
 - 💡 **Experimenting:** Generative AI (Vision & Text), AI Workflows, Gemini API  
 
