@@ -109,7 +109,7 @@
   <a href="mailto:utkarshpandey8977@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/></a>
   <a href="https://kaggle.com/xixama"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/utkarshpandey891"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/></a>
-  <a href="https://www.codewars.com/users/xixama"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars"/></a>
+  <a href="https://www.codewars.com/users/utkarsh820"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars"/></a>
 </p>
 
 ---
