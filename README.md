@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hey there, I'm Utkarsh (aka Xixama)</h1>
 <h3 align="center">
-  🧠 Junior Data Scientist in Progress • GenAI • ML • Computer Vision  
+  🧠 Associate Data Scientist • GenAI • ML • Computer Vision  
   <br/>
   🔭 Building AI with Code, Curiosity & Coffee ☕
 </h3>
@@ -20,8 +20,8 @@
 
 ### 🚀 What I’m Up To
 - 🔭 **Project:** [Gallstone EDA & ML Pipeline](https://www.kaggle.com/code/xixama/getting-started-with-gallstone-eda-ml)
-- *(Feature engineering • SVMs • Polynomial regression)*
-- [MediPredict(Hackthon_Project)](https://web-production-a0330.up.railway.app/)
+  *(Feature engineering • SVMs • Polynomial regression)*
+- 💻 [MediPredict (Hackathon Project)](https://web-production-a0330.up.railway.app/)
 - 🧠 **Learning:** Deep Learning, Transformers, LLM Research Methods  
 - 💡 **Experimenting:** Generative AI (Vision & Text), AI Workflows, Gemini API  
 
@@ -37,26 +37,36 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Bash"/>
 </p>
+
 <p align="center">
   <!-- Libraries & Frameworks -->
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LoRA-0088CC?logo=ai&logoColor=white&style=for-the-badge" alt="LoRA"/>
 </p>
+
 <p align="center">
+  <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-376996?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"/>
 </p>
+
 <p align="center">
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>
 </p>
+
 <p align="center">
   <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
@@ -64,6 +74,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Backblaze-B02000?logo=backblaze&logoColor=white&style=for-the-badge" alt="Backblaze"/>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Gemini API"/>
 </p>
 
@@ -98,6 +109,7 @@
   <a href="mailto:utkarshpandey8977@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/></a>
   <a href="https://kaggle.com/xixama"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/utkarshpandey891"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/></a>
+  <a href="https://www.codewars.com/users/xixama"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars"/></a>
 </p>
 
 ---
